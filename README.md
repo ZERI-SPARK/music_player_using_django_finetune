@@ -46,7 +46,7 @@ This project is a web-based music player built using Django. It provides users w
 
 
 # Note: 
-- If you encounter an error while installing cchardet, it might be due to issues with building the package on certain Python versions. If this happens, consider using a different Python version or look for alternatives to cchardet.
+- If you encounter an error while installing **cchardet** , it might be due to issues with building the package on certain Python versions. If this happens, consider using a different Python version or look for alternatives to cchardet.
 
 - If you continue to face issues, you may need to install the Microsoft Visual C++ Build Tools. You can download it from here. After installation, try running the installation command again.
 
