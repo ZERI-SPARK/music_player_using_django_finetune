@@ -54,7 +54,9 @@ This project is a web-based music player built using Django. It provides users w
 **Steps to Resolve:**
 
 **1. Ensure Microsoft Visual C++ Build Tools Are Installed**
-**Download and Install:** Visit the Microsoft Visual C++ Build Tools and ensure you've installed the "Desktop development with C++" workload.
+**Download and Install:**
+
+Visit the Microsoft Visual C++ Build Tools and ensure you've installed the **"Desktop development with C++"** workload.
 
 **Verify Installation:**
 Open the Visual Studio Installer, select "Modify" on your existing installation, and ensure "Desktop development with C++" is checked.
