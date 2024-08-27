@@ -12,6 +12,7 @@ This project is a web-based music player built using Django. It provides users w
 ### Steps to Set Up
 
 1. **Clone the repository:**
+   
    ```bash
    
    git clone https://github.com/yourusername/music_player_using_django_finetune.git
