@@ -1,5 +1,5 @@
 # Music Player Project using Django
-
+ 
 This project is a web-based music player built using Django. It provides users with the ability to play, manage, and organize their music collection through an intuitive interface.
 
 ## Installation
